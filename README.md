@@ -1,2 +1,2 @@
 # Bubble-sort-algorithm
-Use bubble sort algorithm to generated data.
+Use of the bubble sort algorithm on the generated data.
