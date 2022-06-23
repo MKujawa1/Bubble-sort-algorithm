@@ -69,9 +69,9 @@ def bubble_sort(data):
             else:
                 ### Get data to state list
                 state.append(0)
-        ### Clean plot
+        ### Clean plot data
         plt.clf()
-        ### Display data
+        ### Display data 
         plt.title('Bubble sort',fontsize = 16)
         plt.scatter(np.arange(n),data,s = 8)
         plt.xlabel('# of index',fontsize = 12)
